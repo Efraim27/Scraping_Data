@@ -1,4 +1,6 @@
-#Provide a list of articles that has at least 100 votes/points from the Hacker News website
+#Pycharm
+#In order for the code to work properly, install the followings: beautifulsoup4 & requests
+#Purpose: To provide a list of articles that has over 100 votes/points from the Hacker News website
 
 import requests
 from bs4 import BeautifulSoup
